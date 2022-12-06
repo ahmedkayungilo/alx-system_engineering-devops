@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "{a..n}{a..z}\no{a..n}\no{p..z}\n{p..z}{a..z}"
+echo -e {a..n}{a..z}"\n"o{a..n}"\n"o{p..z}"\n"{p..z}{a..z}
